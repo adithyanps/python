@@ -1,0 +1,5 @@
+-> Learned basic GNU/Linux commands.
+-> Joined nptel python online course.
+ -> completed week0 & week1 vedios and done some exercises.
+
+
