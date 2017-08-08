@@ -1,0 +1,2 @@
+-> Watched nptel-python week2 vedios and completed exercises.
+-> Tried to solve some recursion problems. 
